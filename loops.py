@@ -17,3 +17,15 @@ cnt = 0
 while cnt < 10:
     print(cnt)
     cnt +=1
+
+#print each character of word python
+word="python"
+for chr in word:
+    print(chr)
+print("\n")
+
+#print all numbers from 10 to 1
+num=10
+while num>=1:
+   print(num)
+   num-=1
